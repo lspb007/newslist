@@ -17,3 +17,13 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 安装
+```
+vue create newslist
+cnpm install xe-utils vxe-table
+```
+
+
+https://github.com/xuliangzhan/vxe-table-demo
+https://xuliangzhan_admin.gitee.io/vxe-table/#/table/base/basic
