@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # newslist
 
 ## Project setup
@@ -27,3 +28,6 @@ cnpm install xe-utils vxe-table
 
 https://github.com/xuliangzhan/vxe-table-demo
 https://xuliangzhan_admin.gitee.io/vxe-table/#/table/base/basic
+=======
+# newslist
+>>>>>>> bb006b043dac39fe8b118e60017a6bce1dc68c76
