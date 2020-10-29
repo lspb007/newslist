@@ -6,6 +6,9 @@ import VXETable from 'vxe-table'
 import 'vxe-table/lib/style.css'
 import 'font-awesome/css/font-awesome.css'
 
+
+
+
 Vue.config.productionTip = false
 
 Vue.use(VXETable)
