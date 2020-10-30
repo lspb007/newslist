@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home container">
    <vxe-toolbar>
           <template v-slot:buttons>
             <vxe-button icon="fa fa-plus" @click="insertEvent()">新增</vxe-button>
@@ -49,6 +49,7 @@
           </template>
         </vxe-modal>
   </div>
+  
 </template>
 
 <script>
@@ -282,3 +283,14 @@ export default {
         
 }
 </script>
+
+
+
+<style scoped>
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+</style>
